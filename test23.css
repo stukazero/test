@@ -1,12 +1,16 @@
-i {color: green;font-size: x-large;background :yellow;column-gap:40px;}
+i {color: green;font-size: x-large;column-gap:40px;}
 head{color:blue;font-size:xx-large }
-body{column-rule:80px;background:pink;column-gap:40px;column-rule-width: 40px}
-b{color:green ;font-size:x-large;column-gap:40px;background: yellow;}
-c{color:green;font-size:x-large;column-gap:40px;background:yellow;}
-d{color:green;font-size:x-large;column-gap:40px;background:yellow;}
-e{color:green;font-size:x-large;column-gap:40px;background:yellow;}
-f{color:green;font-size:x-large;column-gap:40px;background:yellow;}
-g{color:green;font-size:x-large;column-gap:40px;background:yellow;}
+body{column-rule:80px;column-gap:40px;column-rule-width: 40px}
+b{color:green;font-size:x-large;column-gap:40px;}
+c{color:green;font-size:x-large;column-gap:40px;}
+d{color:green;font-size:x-large;column-gap:40px;}
+e{color:green;font-size:x-large;column-gap:40px;}
+f{color:green;font-size:x-large;column-gap:40px;}
+g{color:green;font-size:x-large;column-gap:40px;}
 h{font-size:x-large;}
 a{ color:purple;font-size:xx-large;}
-pre{color:red;font-size:xx-large;background:blue;}
+pre{color:red;font-size:xx-large;border:2px solid; border-radius: 25px;border-color: aqua}
+
+
+
+
